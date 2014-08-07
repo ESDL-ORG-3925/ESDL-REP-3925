@@ -2,7 +2,7 @@
 
 void main()
 {
-  int a=2,b=3,c=o;
+  int a=2,b=3,c=0;
   c=a+b;
   cout<<"c is:"<<c;
 }
